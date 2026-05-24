@@ -3,9 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2044&height=200&section=header&text=Lathisana%20Thayaparan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=16&descColor=a5b4fc" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F2044?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lathisana-thayaparan-lathi/)
-[![Gmail](https://img.shields.io/badge/Gmail-0F2044?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lathithayaparan@gmail.com)
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-0F2044?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/lathithayaparan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F2044?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lathithayaparan)
 
 </div>
 
@@ -18,10 +15,10 @@ const lathisana = {
   university : "University of Moratuwa — BSc. (Hons) Information Technology",
   graduating : 2026,
   location   : "Meesalai North, Kodikamam, Sri Lanka 🇱🇰",
-  focus      : ["Full Stack Development", "NLP & AI/ML Engineering"],
+  focus      : ["Full Stack Development"],
   research   : "Automated Lecture Video Summarization (NLP + Computer Vision)",
   internship : "Software Engineer Intern @ Nothing Apps",
-  askMeAbout : ["React.js", "Spring Boot", "Node.js", "Python", "NLP"],
+  askMeAbout : ["React.js", "Spring Boot", "Next.js"],
   funFact    : "I debug with console.log and I'm not ashamed 😄",
 };
 ```
@@ -133,12 +130,3 @@ const lathisana = {
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F2044&height=100&section=footer" />
-
-*"Code is not just instructions for a machine — it's a reflection of how you think and solve problems."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=lathithayaparan&color=0F2044&style=flat-square)
-
-</div>
