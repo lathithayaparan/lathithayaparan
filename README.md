@@ -90,24 +90,6 @@ const lathisana = {
 > Arduino-powered automated sandwich maker reducing manual intervention using stepper motors, solenoid valve, and ultrasonic/IR sensors.
 > `Arduino IDE` `Arduino Mega` `C`
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=lathithayaparan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2044&title_color=a5b4fc&text_color=ffffff&icon_color=a5b4fc" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lathithayaparan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2044&title_color=a5b4fc&text_color=ffffff" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=lathithayaparan&theme=tokyonight&hide_border=true&background=0F2044&ring=a5b4fc&fire=a5b4fc&currStreakLabel=ffffff&sideLabels=ffffff&dates=a5b4fc)
-
-</div>
-
----
 
 ## 🏆 Achievements
 
