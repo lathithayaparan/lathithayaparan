@@ -10,7 +10,13 @@
 
 <img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=lathithayaparan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&icon_color=818cf8&ring_color=818cf8" />
 👩‍💻  About Me
-🎓 DegreeBSc. (Hons) IT · University of Moratuwa (2026)🔬 ResearchAI-driven Lecture Video Summarization💼 ExperienceSoftware Engineer Intern · Nothing Apps🌱 LearningLLMs · Deep Learning · PyTorch💬 Ask MeReact.js · Spring Boot · Next.js · Python📍 LocationKodikamam, Northern Sri Lanka 🇱🇰⚡ Fun FactI debug with console.log — no shame 😄
+🎓 DegreeBSc. (Hons) IT · University of Moratuwa (2026)
+🔬 ResearchAI-driven Lecture Video Summarization
+💼 ExperienceSoftware Engineer Intern · Nothing Apps
+🌱 LearningLLMs · Deep Learning · PyTorch
+💬 Ask MeReact.js · Spring Boot · Next.js · Python
+📍 LocationKodikamam, Northern Sri Lanka 🇱🇰
+⚡ Fun FactI debug with console.log — no shame 😄
 <br clear="right"/>
 
 ---
