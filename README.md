@@ -15,11 +15,11 @@
 | 🎓 **Degree** | BSc. (Hons) IT · University of Moratuwa *(2026)* |
 | 🔬 **Research** | AI-driven Lecture Video Summarization — NLP + Computer Vision |
 | 💼 **Experience** | Software Engineer Intern · Nothing Apps |
-| 🌱 **Learning** | LLMs · Deep Learning · PyTorch |
-| 💡 **Passionate About** | Scalable Full-Stack Systems & Intelligent AI Solutions |
+| 🌱 **Currently Learning about** | LLMs · Deep Learning · PyTorch |
+| 💡 **Passionate About** | Fullstack development & Intelligent AI Solutions |
 | 🤝 **Open To** | Software Engineering & AI/ML Opportunities |
 | 📫 **Contact** | lathithayaparan@gmail.com |
-| 📍 **Location** | Kodikamam, Northern Sri Lanka 🇱🇰 |
+| 📍 **Location** | Meesalai North ,Kodikamam, Northern Sri Lanka 🇱🇰 |
 | ⚡ **Fun Fact** | I debug with console.log — no shame 😄 |
 
 ---
