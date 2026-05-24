@@ -11,15 +11,14 @@
 ## 👨‍💻 About Me
 
 ```typescript
-const lathisana = {
-  university : "University of Moratuwa — BSc. (Hons) Information Technology",
-  graduating : 2026,
-  location   : "Meesalai North, Kodikamam, Sri Lanka 🇱🇰",
-  focus      : ["Full Stack Development"],
-  research   : "Automated Lecture Video Summarization (NLP + Computer Vision)",
-  internship : "Software Engineer Intern @ Nothing Apps",
-  askMeAbout : ["React.js", "Spring Boot", "Next.js"],
-  funFact    : "I debug with console.log and I'm not ashamed 😄",
+🎓 &nbsp;Final-year **BSc. (Hons) IT** undergraduate at **University of Moratuwa** *(Expected 2026)*
+🔬 &nbsp;Researching **AI-driven Lecture Video Summarization** — NLP + Computer Vision
+💼 &nbsp;Former **Software Engineer Intern @ Nothing Apps**
+🌍 &nbsp;Based in **Kodikamam, Northern Sri Lanka**
+💡 &nbsp;Passionate about building **scalable full-stack systems** and **intelligent AI solutions**
+🌱 &nbsp;Currently deepening expertise in **LLMs, PyTorch & Deep Learning**
+🤝 &nbsp;Open to **Software Engineering & AI/ML** opportunities
+⚡ &nbsp;Fun fact — *I debug with console.log and I'm not ashamed* 😄
 };
 ```
 
