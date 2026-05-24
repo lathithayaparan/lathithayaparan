@@ -11,15 +11,16 @@
 ## 👨‍💻 About Me
 
 ```typescript
-🎓 &nbsp;Final-year **BSc. (Hons) IT** undergraduate at **University of Moratuwa** *(Expected 2026)*
-🔬 &nbsp;Researching **AI-driven Lecture Video Summarization** — NLP + Computer Vision
-💼 &nbsp;Former **Software Engineer Intern @ Nothing Apps**
-🌍 &nbsp;Based in **Kodikamam, Northern Sri Lanka**
-💡 &nbsp;Passionate about building **scalable full-stack systems** and **intelligent AI solutions**
-🌱 &nbsp;Currently deepening expertise in **LLMs, PyTorch & Deep Learning**
-🤝 &nbsp;Open to **Software Engineering & AI/ML** opportunities
-⚡ &nbsp;Fun fact — *I debug with console.log and I'm not ashamed* 😄
-};
+🎓 Final-year **BSc. (Hons) IT** undergraduate at **University of Moratuwa** *(Expected 2026)*
+📫 How to reach me **lathithayaparan@gmail.com**
+🔬 Researching **AI-driven Lecture Video Summarization** — NLP + Computer Vision
+💼 Former **Software Engineer Intern @ Nothing Apps**
+🌍 Based in **Kodikamam, Northern Sri Lanka**
+💡 Passionate about building **scalable full-stack systems** and **intelligent AI solutions**
+🌱 Currently deepening expertise in **LLMs, PyTorch & Deep Learning**
+🤝 Open to **Software Engineering & AI/ML** opportunities
+⚡ Fun fact — *I debug with console.log and I'm not ashamed* 😄
+
 ```
 
 ---
