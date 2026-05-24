@@ -105,7 +105,7 @@ const lathisana = {
 
 ## 💼 Work Experience
 
-**Software Engineer Intern @ Nothing Apps** *(2024)*
+**Software Engineer Intern @ Nothing Apps** *(2025)*
 - 🔹 Built full-stack features for **Bot Marketplace** — Next.js, TypeScript, Prisma, MongoDB
 - 🔹 Developed real-time **Moobidesk Middleware** — Express.js, Redis, WhatsApp Cloud API
 - 🔹 R&D on **Bot Starter Kit** — AWS Lambda, Redis, WhatsApp Flows, embedded signup
