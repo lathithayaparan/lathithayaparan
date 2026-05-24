@@ -10,18 +10,17 @@
 
 ## 👨‍💻 About Me
 
-```typescript
-🎓 Final-year **BSc. (Hons) IT** undergraduate at **University of Moratuwa** *(Expected 2026)*
-📫 How to reach me **lathithayaparan@gmail.com**
-🔬 Researching **AI-driven Lecture Video Summarization** — NLP + Computer Vision
-💼 Former **Software Engineer Intern @ Nothing Apps**
-🌍 Based in **Kodikamam, Northern Sri Lanka**
-💡 Passionate about building **scalable full-stack systems** and **intelligent AI solutions**
-🌱 Currently deepening expertise in **LLMs, PyTorch & Deep Learning**
-🤝 Open to **Software Engineering & AI/ML** opportunities
-⚡ Fun fact — *I debug with console.log and I'm not ashamed* 😄
-
-```
+| | |
+|---|---|
+| 🎓 **Degree** | BSc. (Hons) IT · University of Moratuwa *(2026)* |
+| 🔬 **Research** | AI-driven Lecture Video Summarization — NLP + Computer Vision |
+| 💼 **Experience** | Software Engineer Intern · Nothing Apps |
+| 🌱 **Learning** | LLMs · Deep Learning · PyTorch |
+| 💡 **Passionate About** | Scalable Full-Stack Systems & Intelligent AI Solutions |
+| 🤝 **Open To** | Software Engineering & AI/ML Opportunities |
+| 📫 **Contact** | lathithayaparan@gmail.com |
+| 📍 **Location** | Kodikamam, Northern Sri Lanka 🇱🇰 |
+| ⚡ **Fun Fact** | I debug with console.log — no shame 😄 |
 
 ---
 
@@ -111,4 +110,3 @@
 - 🔹 Represented Nothing Apps at **Yarl IT Hub Exhibition**
 
 ---
-
